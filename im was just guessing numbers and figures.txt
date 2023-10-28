@@ -1,7 +1,3 @@
 heads on a science apart
 
-<<<<<<< HEAD
-wow thats a mad reference
-=======
-i dont like the reference that much
->>>>>>> fe7bec8a752d477db789505e81ded4d0a634ec00
+fix this
